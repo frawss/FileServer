@@ -1,6 +1,6 @@
 # File server in C with a Python client
 
-THIS IS IA-GENERATED, SO I CAN FOCUS WRITING CODE.
+THIS IS IA-GENERATED README, SO I CAN FOCUS WRITING CODE.
 A small system to store files on a remote machine and retrieve them from a laptop.
 
 - **Server in C**: hand-written TCP sockets, one process per client (`fork`), files stored on disk and indexed with SQLite.
